@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+
+body{
+    padding-left: 25px;
+    background: linear-gradient();
+    background-image: url('bag.jpg');
+    background-size: cover;
+    height: 600px;
+
+}
+.nav{
+    flex: 1px;
+}
+.icon{ 
+    
+    width: 200px;
+    float: left;
+    height: 75px; 
+}
+
+.menu{ 
+    width: 400px;
+    float: left;
+    height: 70px;
+
+    
+}
+
+.ul{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+li{
+    display: inline-flex;
+    list-style: none;
+    margin: 20px;
+    font-size: 14px;
+    padding-left: 30%;
+} 
+.Miriam{
+    margin-left: 700px;
+
+}
+button{
+    border-radius: 20px;
+    padding: 1%;
+    font-weight: bold;
+    color: yellowgreen;
+
+}
+/* .content{
+    margin-buttom: 1200px;
+} */
